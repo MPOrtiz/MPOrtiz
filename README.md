@@ -15,15 +15,15 @@ Hi there! I’m Martha Patricia Ortiz, a Data Scientist with over 6 years of exp
 
 🎓 I hold a Bachelor’s degree in Industrial Engineering and recently graduated from a Data Science bootcamp, where I applied machine learning models to real-world business challenges.
 
-🛠️ Mis habilidades incluyen:
+🛠️ My skill set includes:
 
-Programación con Python y SQL
+*Programming with Python and SQL
 
-Análisis y visualización con Power BI, Excel, Tableau
+*Data analysis and visualization using Power BI, Excel, and Tableau
 
-Modelado con Scikit-learn, pandas, statsmodels
+*Modeling with Scikit-learn, pandas, and statsmodels
 
-Métodos como EDA, A/B testing, Feature Engineering, y más.
+*Techniques such as EDA, A/B testing, Feature Engineering, and more
 
 🌍 I thrive in cross-functional teams, love translating technical results for non-technical audiences, and always seek opportunities to drive meaningful impact and continuous improvement.
 
