@@ -20,13 +20,10 @@ Hi there! I’m Martha Patricia Ortiz, a Data Scientist with over 6 years of exp
 
 🛠️ My skill set includes:
 
-*Programming with Python and SQL
-
-*Data analysis and visualization using Power BI, Excel, and Tableau
-
-*Modeling with Scikit-learn, pandas, and statsmodels
-
-*Techniques such as EDA, A/B testing, Feature Engineering, and more
+-Programming with Python and SQL
+-Data analysis and visualization using Power BI, Excel, and Tableau
+-Modeling with Scikit-learn, pandas, and statsmodels
+-Techniques such as EDA, A/B testing, Feature Engineering, and more
 
 🌍 I thrive in cross-functional teams, love translating technical results for non-technical audiences, and always seek opportunities to drive meaningful impact and continuous improvement.
 
