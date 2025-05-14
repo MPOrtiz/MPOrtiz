@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Data Scientist Banner" width="100%"/>
+  <img src="banner.png" lt="Data Scientist Banner" width="100%"/>
+  <img src="assets/banner.png" ... >
 </p>
 
 # Hi! I'm Path Ortiz (Martha Patricia Ortiz)
