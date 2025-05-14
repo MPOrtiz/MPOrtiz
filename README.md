@@ -1,5 +1,5 @@
 
-# Martha Patricia Ortiz Martínez
+# Martha Patricia Ortiz
 
 ## 👩‍💻 Data Scientist | Process Optimization Analyst | Lean Six Sigma Green Belt
 
