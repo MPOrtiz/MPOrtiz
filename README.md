@@ -16,40 +16,6 @@ Data Scientist with 6 years of experience in data analysis, process optimization
 
 ---
 
-## 💼 Professional Experience
-
-### **TRIPLE TEN** – *Data Scientist Apprentice*  
-📍 Remote | 🗓️ May 2024 – February 2025  
-- Developed ML and statistical projects to automate decision-making.  
-- 🧠 **Customer Churn Prediction (Capstone):** Built an XGBoost model with 85% accuracy using feature selection and SHAP explanations.  
-- 🚕 **Taxi Demand Forecasting:** Developed a time-series model using CatBoost, improving operational planning by 25%.
-
-### **IBERO UNIVERSITY** – *Team Coach*  
-📍 Puebla, MX | 🗓️ October 2021 – July 2024  
-- Coached entrepreneurship teams in a global innovation program (LEINN).  
-- 🌍 Co-developed a top-5 social innovation project in Santander’s Diversity & Inclusion Program.  
-- ✈️ Led the design of an international residency in Spain.  
-- 👩‍🏫 Mentored 100+ students during a civic hackathon.
-
-### **SCHAEFFLER** – *Data and Process Analyst*  
-📍 Puebla, MX | 🗓️ September 2018 – September 2021  
-- Led Lean Six Sigma and Red X projects to improve manufacturing processes.  
-- 🏭 FORD: Reduced CVT chain “wave” defects below 0.5%.  
-- 🛠️ VOLVO & DAIMLER: Applied DOE to cut scrap rates and improve efficiency.  
-- 📊 Improved audit reliability via multivariate analysis between test systems.
-
----
-
-## 🎓 Education
-
-- **Triple Ten** – Data Science Program  
-  🗓️ May 2024 – February 2025
-
-- **Universidad Iberoamericana, Puebla** – Bachelor’s Degree in Industrial Engineering  
-  🗓️ 2014 – 2018
-
----
-
 ## 🧰 Skills & Tools
 
 - **Programming:** Python, SQL, R, C++  
@@ -67,9 +33,3 @@ Data Scientist with 6 years of experience in data analysis, process optimization
 - English: B2
 
 ---
-
-## 🎓 Certifications & Courses
-
-- Green Belt – Schaeffler Academy  
-- Digital Marketing – IBERO  
-- Social Economy – IBERO
