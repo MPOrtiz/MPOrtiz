@@ -1,5 +1,5 @@
 
-# 📄 Curriculum Vitae – Martha Patricia Ortiz Martínez
+# Martha Patricia Ortiz Martínez
 
 ## 👩‍💻 Data Scientist | Process Optimization Analyst | Lean Six Sigma Green Belt
 
@@ -10,26 +10,20 @@
 
 ---
 
-## 🧠 Summary
+🙋‍♀️ About Me
+Hi there! I’m Martha Patricia Ortiz, a Data Scientist with over 6 years of experience in data analysis, process optimization, and strategic decision-making powered by data-driven insights 📊.
 
-Data Scientist with 6 years of experience in data analysis, process optimization, and decision-making based on data-driven insights. Holds a Bachelor's degree in Industrial Engineering and has applied analytics and statistical tools in both industrial and tech environments, supporting high-level clients such as **Daimler, Volvo, and Ford**. Skilled in building predictive models, improving processes through Lean Six Sigma (Green Belt certified), and communicating technical results to non-technical stakeholders. Recently enhanced machine learning expertise through project-based training, focusing on business impact and automation.
+🎓 I hold a Bachelor’s degree in Industrial Engineering and recently graduated from a Data Science bootcamp, where I applied machine learning models to real-world business challenges.
 
----
+🛠️ Mis habilidades incluyen:
 
-## 🧰 Skills & Tools
+Programación con Python y SQL
 
-- **Programming:** Python, SQL, R, C++  
-- **Machine Learning:** Scikit-learn, MLflow, pandas, statsmodels  
-- **Data Analysis:** Jupyter, Power BI, Excel, SAP  
-- **Methods:** A/B Testing, EDA, Feature Engineering, DOE, DMAIC  
-- **Tools:** Git, VS Code, Power BI, Tableau  
-- **Software:** Microsoft Office  
+Análisis y visualización con Power BI, Excel, Tableau
 
----
+Modelado con Scikit-learn, pandas, statsmodels
 
-## 🌐 Languages
+Métodos como EDA, A/B testing, Feature Engineering, y más.
 
-- Spanish: Native  
-- English: B2
+🌍 I thrive in cross-functional teams, love translating technical results for non-technical audiences, and always seek opportunities to drive meaningful impact and continuous improvement.
 
----
